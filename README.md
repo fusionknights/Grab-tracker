@@ -1,2 +1,0 @@
-# Grab-tracker
-Earnings tracker 
